@@ -5,7 +5,7 @@
 - 📫 How to reach me: fch1996@yahoo.com & fch1996@gmail.com 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: workout
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=faatemehch">
+<img src="[https://github-readme-stats.vercel.app/api/wakatime?username=anuraghazra](https://github-readme-stats.vercel.app/api/top-langs/?username=faatemehch&layout=compact)">
 
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight">
 
