@@ -7,7 +7,7 @@
 - ⚡ Fun fact: workout
 <img src="[https://github-readme-stats.vercel.app/api/wakatime?username=anuraghazra](https://github-readme-stats.vercel.app/api/top-langs/?username=faatemehch&layout=compact)">
 
-<img src="https://github-readme-stats.vercel.app/api?username=faatemech&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/apiusername=faatemehch&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=dark">
 
 <table>
   <tr>
