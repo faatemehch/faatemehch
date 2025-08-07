@@ -9,7 +9,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faatemehch&layout=compact&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api?username=faatemehch&show_icons=true&theme=radical"> 
   
-[![My Skills](https://skillicons.dev/icons?i=python,django,apple,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,apple,docker,git,github,vscode)](https://skillicons.dev)
 
 
 
