@@ -2,9 +2,8 @@
 
 - 🔭 I’m currently a programmer teacher & researcher
 - 💬 Ask me about python(django, ML, DL)
-- 📫 How to reach me: fch1996@gmail.com 
+- 📫 How to reach me: fch1996@yahoo.com 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: workout
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=faatemehch&show_icons=true&theme=radical"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faatemehch&layout=compact&theme=radical">
