@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a programmer teacher & researcher
 - 💬 Ask me about python(django, ML, DL)
-- 📫 How to reach me: fch1996@yahoo.com 
+- 📫 How to reach me: fch199674@gmail.com 
 - 😄 Pronouns: She/Her
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=faatemehch&show_icons=true&theme=radical"> 
